@@ -1,6 +1,6 @@
 # Laboratoria-Freelance
 <h3>User Persona</h3>
-<div><img src=""assets/imagenes/UserPersona.PNG"></div>
+<div><a href="https://app.xtensio.com/folio/9wfhqgqz">User Persona: Karina</a></div>
 <h3>Definición del Problema</h3>
   
   <div>
